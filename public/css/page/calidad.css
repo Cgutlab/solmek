@@ -1,0 +1,41 @@
+#descripcion-calidad{
+	margin-top: 5%
+}
+
+#descripcion-calidad span{
+	color: #595959;
+	font-size: 17px;
+	font-family: 'TItillium Light';
+	margin-top: 5%
+}
+
+.descargas-calidad{
+	background: #F8F8F8;
+	border: 1px solid #DDDDDD;
+	margin-top: 5%;
+	padding: 5% 0% 15%;
+}
+
+.descargas-calidad span{
+	font-family: 'TItillium Semibold' !important;
+}
+
+.descargas-calidad i{
+	margin-top: 20%;
+}
+
+@media(max-width: 992px) {  
+	#descripcion-calidad{
+		margin-top: 5%
+	}
+}
+
+@media(max-width: 600px) {  
+	#descripcion-calidad{
+		margin-top: 5%
+	}
+	
+	.descargas-calidad span{
+		font-size: 11px !important;
+	}
+}

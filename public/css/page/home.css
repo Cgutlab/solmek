@@ -1,0 +1,100 @@
+#titulo-caption, #titulo-caption p{
+	font-family: 'Titillium';
+	font-size: 24px;
+	color: #FFFFFF;
+}
+
+#descripcion-caption, #descripcion-caption p{
+	font-family: 'Titillium Bold';
+	font-size: 44px;
+	color: #FFBF06;
+	margin-top: 2%;
+}
+
+#titulo-novedades-home{
+	color: #B0B0B0;
+	font-size: 30px;
+	margin-top: -2%
+}
+
+#titulo-card-novedades-home, #titulo-card-novedades-home-active{
+	font-size: 20px !important; 
+	color: #FFF; 
+	font-family: 'Titillium Semibold';
+}
+
+.card-reveal p, .card-reveal a{
+	font-size: 15px !important; 
+	color: #FFF; 
+	font-family: 'Titillium';
+
+}
+
+#informacion-titulo-caption{
+	font-family: 'Titillium Semibold';
+	color: #FFC107;
+	font-size: 32px;
+	padding-top: 25%;
+}
+
+
+#informacion-descripcion-caption{
+	font-family: 'Titillium Light';
+	color: #FFFFFF;
+	font-size: 18px;
+	padding-top: 15%;
+}
+
+.informacion-div{
+	height: 247px;
+	overflow: hidden;
+}
+
+#divider-destacados-home{
+	margin-left: 40%; 
+	margin-top: -1%; 
+	width: 20%; 
+	background: #FFC107; 
+	height: 2px;
+}
+
+@media(max-width: 992px) {  
+
+	#informacion-titulo-caption{
+		font-size: 22px;
+		padding-top: 20%;
+	}
+
+
+	#informacion-descripcion-caption{
+		font-size: 14px;
+		padding-top: 15%;
+	}  
+
+	#divider-destacados-home{
+		margin-left: 15%; 
+		margin-top: -1%; 
+		width: 70%; 
+		background: #FFC107; 
+		height: 2px;
+	}
+
+	#titulo-novedades-home{
+		margin-top: 2%
+	}
+
+	#titulo-card-novedades-home, #titulo-card-novedades-home-active{
+		font-size: 15px !important; 
+	}
+
+	.card-reveal p, .card-reveal a{
+		font-size: 12px !important; 
+
+	}
+}
+
+
+
+
+
+

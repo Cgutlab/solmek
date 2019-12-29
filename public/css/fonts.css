@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
+
+ @font-face {
+    font-family: Titillium Black;
+    src: url('../fonts/Titillium-Black.otf');
+}
+ @font-face {
+    font-family: Titillium Bold;
+    src: url('../fonts/Titillium-Bold.otf');
+}
+ @font-face {
+    font-family: Titillium Bold Italic;
+    src: url('../fonts/Titillium-BoldItalic.otf');
+}
+ @font-face {
+    font-family: Titillium Bold Upright;
+    src: url('../fonts/Titillium-BoldUpright.otf');
+}
+ @font-face {
+    font-family: Titillium Light;
+    src: url('../fonts/Titillium-Light.otf');
+}
+ @font-face {
+    font-family: Titillium Light Italic;
+    src: url('../fonts/Titillium-LightItalic.otf');
+}
+ @font-face {
+    font-family: Titillium Light Upright;
+    src: url('../fonts/Titillium-LightBoldUpright.otf');
+}
+ @font-face {
+    font-family: Titillium;
+    src: url('../fonts/Titillium-Regular.otf');
+}
+ @font-face {
+    font-family: Titillium Regular Italic;
+    src: url('../fonts/Titillium-RegularItalic.otf');
+}
+ @font-face {
+    font-family: Titillium Regular Upright;
+    src: url('../fonts/Titillium-RegularUpright.otf');
+}
+@font-face {
+    font-family: Titillium SemiBold;
+    src: url('../fonts/Titillium-Semibold.otf');
+}
+@font-face {
+    font-family: Titillium SemiBold Italic;
+    src: url('../fonts/Titillium-SemiBoldItalic.otf');
+}
+@font-face {
+    font-family: Titillium SemiBold Upright;
+    src: url('../fonts/Titillium-SemiBoldUpright.otf');
+}
+@font-face {
+    font-family: Titillium Thin;
+    src: url('../fonts/Titillium-Thin.otf');
+}
+@font-face {
+    font-family: Titillium Thin Italic;
+    src: url('../fonts/Titillium-ThinItalic.otf');
+}
+@font-face {
+    font-family: Titillium Thin Upright;
+    src: url('../fonts/Titillium-ThinUpright.otf');
+}
+
+html{
+    font-family: 'Titillium', sans-serif;
+    font-size: 19px;
+    color: #5A5A5A;
+}

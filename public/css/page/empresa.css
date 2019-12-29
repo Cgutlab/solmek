@@ -1,0 +1,11 @@
+#descripcion-empresa span{
+	color: #999999;
+	font-size: 17px;
+	font-family: 'TItillium Light'
+}
+
+@media(max-width: 992px) {  
+	#descripcion-empresa{
+		margin-top: 5%
+	}
+}

@@ -1,0 +1,21 @@
+#descripcion-produccion span{
+	color: #595959;
+	font-size: 17px;
+	font-family: 'TItillium Light'
+}
+
+@media(max-width: 992px) {  
+	#descripcion-produccion{
+		margin-top: 5%
+	}
+}
+
+@media(max-width: 600px) {  
+	#descripcion-produccion{
+		margin-top: 5%
+	}
+	
+	.descargas-produccion span{
+		font-size: 11px !important;
+	}
+}

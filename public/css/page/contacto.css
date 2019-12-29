@@ -1,0 +1,16 @@
+
+
+.contacto-icon i{
+    position: relative;
+    margin-top: 5px;
+    color: #FFC006;
+}
+
+.contacto-text a{
+	color: #646464;
+	font-family: 'Titillium Semibold';
+}
+
+.contacto-info{
+	margin-top: 15%;
+}
